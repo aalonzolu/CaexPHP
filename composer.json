@@ -1,0 +1,22 @@
+{
+    "name": "aalonzolu/caex-sdk",
+    "type": "sdk",
+    "description": "Caex logistics SDK",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://lexo.dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrés Alonzo",
+            "email": "maik@lexo.dev",
+            "homepage": "http://lexo.dev",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Caex": "src/"
+        }
+    }
+
+}
