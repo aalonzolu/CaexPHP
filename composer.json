@@ -2,7 +2,7 @@
     "name": "aalonzolu/caex-sdk",
     "type": "sdk",
     "description": "Caex logistics SDK",
-    "keywords": ["relevant","tags","go","here"],
+    "keywords": ["caex","cargo","expreso","cargoexpreso","guatemala"],
     "homepage": "https://lexo.dev",
     "license": "MIT",
     "minimum-stability": "stable",
