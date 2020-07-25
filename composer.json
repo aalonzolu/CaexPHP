@@ -5,10 +5,11 @@
     "keywords": ["relevant","tags","go","here"],
     "homepage": "https://lexo.dev",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Andrés Alonzo",
-            "email": "maik@lexo.dev",
+            "email": "mail@lexo.dev",
             "homepage": "http://lexo.dev",
             "role": "Developer"
         }

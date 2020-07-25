@@ -168,6 +168,7 @@ class Caex
             ]
         ];
         $response = $this->client->__soapCall('GenerarGuia', array($params))->ResultadoGenerarGuia->ListaRecolecciones->DatosRecoleccion;
+        // echo $this->client->__getLastRequest();exit;
         if($response==null){
             $response = [];
         }
